@@ -1,56 +1,23 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-/*
-        // Idea: buuble-sort alike, in-place
+        // Idea: (in-place two-pointers technique) use 2 pointers: 1 running through array and 1 for index of non-0 elements (place where put this element)
+        // Time: O(n), Space: O(1)
+        // Runtime: 1ms (100%), Memory: 44.9mb (83.6%)
 
         // edge-cases
-        if(nums == null || nums.length <= 1)
-            return;
-
-        for(int leftInd = 0, rightInd = 1;
-            rightInd <= nums.length - 1; ) {
-
-            if(nums[leftInd] == 0 && nums[rightInd] != 0) {
-                // swap places
-                swap(nums, leftInd, rightInd);
-                // move all pointers
-                leftInd++;
-                rightInd++;
-            } else if(nums[leftInd] == 0 && nums[rightInd] == 0) {
-                // move right index only
-                rightInd++;
-            } else {
-                // (nums[leftInd] != 0)
-                // move all pointers
-                leftInd++;
-                rightInd++;
-            }
-        }
-*/
-
-        // alternative
-        // faster, overwritting, non-swapping
-        if(nums == null || nums.length == 0)
+        if (nums == null || nums.length <= 1)
             return;
         
-        int nonZeroPointer = 0;
-        
-        for(int num : nums) {
-            if(num != 0)
-                nums[nonZeroPointer++] = num;
+        // phase 1: set all non-0 elements at the beginning of array
+        int nonZeroIndex = 0;   // where to place a number != 0
+        for(int cur = 0; cur < nums.length; cur++) {
+            if(nums[cur] != 0)
+                nums[nonZeroIndex++] = nums[cur];
         }
         
-        for(int zeros = nonZeroPointer; zeros < nums.length; zeros++) {
-            nums[zeros] = 0;
-        }
+        // phase 2: fill the rest of array with 0
+        // (now 'nonZeroIndex' is pointing to the place in array, from which should stay only 0s)
+        while(nonZeroIndex < nums.length)
+            nums[nonZeroIndex++] = 0;
     }
-
-/*
-    // swap places the numbers of given indices in array in-place
-    private void swap(int[] nums, int a, int b) {
-        int tmp = nums[a];
-        nums[a] = nums[b];
-        nums[b] = tmp;
-    }
-*/
 }
