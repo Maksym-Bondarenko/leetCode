@@ -16,17 +16,13 @@ class Solution {
 
     // help-function for recursive call
     void reverseRecursively(char[] s, int start, int end) {
-        // exit-case
-        if(start >= end)
-            return;
-
-        // swap elements
-        char tmp = s[start];
-        s[start] = s[end];
-        s[end] = tmp;
-
-        // recursive call
-        reverseRecursively(s, start + 1, end - 1);
+        if(start < end) {
+            // swap two chars
+            char tmp = s[start];
+            s[start] = s[end];
+            s[end] = tmp;
+            reverseRecursively(s, ++start, --end);
+        }
     }
     
     // // help-function that swaps input of array 's' on places 'start' and 'end'
