@@ -12,6 +12,17 @@ class Solution {
         // Idea 2: Recursiv. Call function to swap first and last chars. Proceed recursively with the rest of array
 
         reverseRecursively(s, 0, s.length - 1);
+
+        // // Idea 3: (divide and conquer) recursively. The string is split into half. Each substring will be further divided.
+        // // This process continues until the string can no longer be divided (length `<= 1`).
+        // // The conquering process will take they previously split strings and concatenate them in reverse order.
+
+        // int length = s.length();
+        // if (length <= 1)
+        //     return s;
+        // String leftStr = s.substring(0, length / 2);
+        // String rightStr = s.substring(length / 2, length);
+        // return reverseString(rightStr) + reverseString(leftStr);
     }
 
     // help-function for recursive call
