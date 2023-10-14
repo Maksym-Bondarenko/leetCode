@@ -32,7 +32,8 @@ class Solution {
 //         return previous;
         
         // Idea 2: (Recursive)
-        // 
+        // do one rotation of 'arrow' in one recursion-iteration
+        // rotate it by setting '.next.next' pointer and set tail to null
         
         // exit-cases from recursion
         if(head == null || head.next == null)
