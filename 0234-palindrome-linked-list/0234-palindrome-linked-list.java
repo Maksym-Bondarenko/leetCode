@@ -46,28 +46,28 @@ class Solution {
     
     // help-function for reversing the given list
     private ListNode reverse(ListNode head) {
-        if(head == null || head.next == null)
-            return head;
-        ListNode next = head.next;
-        next = this.reverse(next);
-        head.next.next = head;
-        head.next = null;
-        return next;
-        
         // if(head == null || head.next == null)
         //     return head;
+        // ListNode next = head.next;
+        // next = this.reverse(next);
+        // head.next.next = head;
+        // head.next = null;
+        // return next;
         
-        // ListNode previous = null;
-        // ListNode current = head;
-        // ListNode further = null;
+        if(head == null || head.next == null)
+            return head;
         
-        // while(current != null) {
-        //     further = current.next;
-        //     current.next = previous;
-        //     previous = current;
-        //     current = further;
-        // }
+        ListNode previous = null;
+        ListNode current = head;
+        ListNode further = null;
         
-        // return previous;
+        while(current != null) {
+            further = current.next;
+            current.next = previous;
+            previous = current;
+            current = further;
+        }
+        
+        return previous;
     }
 }
