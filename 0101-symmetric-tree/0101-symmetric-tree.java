@@ -79,11 +79,42 @@ class Solution {
         }
         
         return true;
+
+        // // ALTERNATIVE CODING:
+        // if(root.left != null && root.right != null) {
+        //     stack.push(root.left);
+        //     stack.push(root.right);
+        // }
+        
+        // while(!stack.empty()) {
+        //     if(stack.size() % 2 != 0)   // additional check
+        //         return false;
+        //     // pay attention to order of poping the nodes
+        //     TreeNode right = stack.pop();
+        //     TreeNode left = stack.pop();
+            
+        //     if(left.val != right.val)
+        //         return false;
+        //     if((left.left == null && right.right != null) ||
+        //        (left.left != null && right.right == null) ||
+        //        (left.right == null && right.left != null) ||
+        //        (left.right != null && right.left == null))
+        //         return false;
+        //     if(left.left != null && right.right != null) {
+        //         stack.push(left.left);
+        //         stack.push(right.right);
+        //     }
+        //     if(left.right != null && right.left != null) {
+        //         stack.push(left.right);
+        //         stack.push(right.left);
+        //     }
+        // }
         
         // Idea 3: (traversals)
         // traverse left-part in-order (left -> root -> right)
         // traverse right-part backwards in-order (right -> root -> left)
         // assert equality of both parts ! use NULL for 'missing' nodes !
+        
     }
     
     private boolean areChildrenSymmetric(TreeNode leftNode, TreeNode rightNode) {
