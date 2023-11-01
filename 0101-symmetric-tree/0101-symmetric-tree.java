@@ -95,11 +95,13 @@ class Solution {
             
         //     if(left.val != right.val)
         //         return false;
+        //     // check error-cases (not vs not-null)
         //     if((left.left == null && right.right != null) ||
         //        (left.left != null && right.right == null) ||
         //        (left.right == null && right.left != null) ||
         //        (left.right != null && right.left == null))
         //         return false;
+        //     // add symetric nodes in right order
         //     if(left.left != null && right.right != null) {
         //         stack.push(left.left);
         //         stack.push(right.right);
@@ -114,7 +116,7 @@ class Solution {
         // traverse left-part in-order (left -> root -> right)
         // traverse right-part backwards in-order (right -> root -> left)
         // assert equality of both parts ! use NULL for 'missing' nodes !
-        
+
     }
     
     private boolean areChildrenSymmetric(TreeNode leftNode, TreeNode rightNode) {
