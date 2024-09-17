@@ -13,3 +13,11 @@ Problems solved: 178
 
 ![image](https://github.com/Maksym-Bondarenko/leetCode/assets/45164667/fceb0d73-3e18-4008-b1fb-89912b1b07ca)
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+<!---LeetCode Topics End-->
