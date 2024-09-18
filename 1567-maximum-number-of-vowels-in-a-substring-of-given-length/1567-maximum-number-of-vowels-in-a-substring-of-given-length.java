@@ -1,7 +1,7 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        // Idea: use sliding window to iterate through the array
-        // check for vowels using HS
+        // Idea: {Time: O(N)} use sliding window to iterate through the array
+        // check for vowels e.g. using HS
         // no corner-cases, according to the task
 
         int currentVowels = 0;
@@ -32,14 +32,11 @@ class Solution {
 
     // help-functions retern wether given letter is a vowel
     private boolean isVowel(char letter) {
-        // fill HS with all vowels
-        Set<Character> allVowels = new HashSet();
-        allVowels.add('a');
-        allVowels.add('e');
-        allVowels.add('i');
-        allVowels.add('o');
-        allVowels.add('u');
-
-        return allVowels.contains(letter);
+        return
+            letter == 'a' ||
+            letter == 'e' ||
+            letter == 'i' ||
+            letter == 'o' ||
+            letter == 'u';
     }
 }
