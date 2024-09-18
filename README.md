@@ -49,4 +49,9 @@ Problems solved: 178
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## String
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
