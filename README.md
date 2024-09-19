@@ -46,10 +46,12 @@ Problems solved: 178
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -61,8 +63,13 @@ Problems solved: 178
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
