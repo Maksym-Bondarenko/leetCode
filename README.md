@@ -23,6 +23,7 @@ Problems solved: 178
 | [0238-product-of-array-except-self](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1833-find-the-highest-altitude) |
@@ -44,6 +45,7 @@ Problems solved: 178
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
