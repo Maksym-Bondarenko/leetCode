@@ -22,6 +22,7 @@ Problems solved: 178
 | [0011-container-with-most-water](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -76,9 +77,11 @@ Problems solved: 178
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
