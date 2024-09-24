@@ -92,4 +92,16 @@ Problems solved: 178
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
