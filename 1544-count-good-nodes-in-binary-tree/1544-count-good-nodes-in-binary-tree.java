@@ -16,6 +16,7 @@
 class Solution {
     public int goodNodes(TreeNode root) {
         // Idea: use DFS for Tree-traversal and keep track on the current largest element
+        // alternatively: make counter a global variable and increment it by good nodes, instead of saving value from recursive calls to children into a variable
 
         int currentMax = Integer.MIN_VALUE;
         int goodNodesCount = 0;
