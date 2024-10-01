@@ -100,6 +100,7 @@ Problems solved: 178
 ## Depth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -110,6 +111,7 @@ Problems solved: 178
 ## Breadth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
@@ -123,4 +125,8 @@ Problems solved: 178
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1236-n-th-tribonacci-number) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
