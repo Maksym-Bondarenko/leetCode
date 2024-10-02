@@ -28,6 +28,7 @@ Problems solved: 178
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1833-find-the-highest-altitude) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Problems solved: 178
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Problems solved: 178
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +75,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
