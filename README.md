@@ -20,6 +20,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0011-container-with-most-water) |
+| [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0735-asteroid-collision) |
@@ -50,12 +51,14 @@ Problems solved: 178
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -79,6 +82,7 @@ Problems solved: 178
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -133,4 +137,8 @@ Problems solved: 178
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0871-keys-and-rooms) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
