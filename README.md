@@ -21,6 +21,7 @@ Problems solved: 178
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0735-asteroid-collision) |
@@ -52,6 +53,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -65,6 +67,7 @@ Problems solved: 178
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
