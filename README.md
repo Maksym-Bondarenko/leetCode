@@ -20,6 +20,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0238-product-of-array-except-self) |
@@ -49,6 +50,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Problems solved: 178
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0055-jump-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
