@@ -20,6 +20,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
@@ -43,6 +44,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0015-3sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -64,6 +66,7 @@ Problems solved: 178
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
