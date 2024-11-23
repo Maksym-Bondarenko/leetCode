@@ -13,8 +13,8 @@ class Solution {
                     temperatures[i] > temperatures[tempIndices.peek()]) {
                 // set values for some previous day (= saved index in stack)
                 // how many days <=> indices, not array-values!
-                answer[tempIndices.peek()] = i - tempIndices.peek();
-                tempIndices.pop();
+                int idx = tempIndices.pop();
+                answer[idx] = i - idx;
             }
             
             tempIndices.push(i);
