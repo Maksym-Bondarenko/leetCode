@@ -28,6 +28,7 @@ Problems solved: 178
 | [0238-product-of-array-except-self](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -98,6 +99,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -153,4 +155,8 @@ Problems solved: 178
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
