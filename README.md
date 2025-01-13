@@ -23,6 +23,7 @@ Problems solved: 178
 | [0015-3sum](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0228-summary-ranges) |
@@ -60,6 +61,7 @@ Problems solved: 178
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -160,4 +162,8 @@ Problems solved: 178
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0739-daily-temperatures) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
