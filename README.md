@@ -28,6 +28,7 @@ Problems solved: 178
 | [0219-contains-duplicate-ii](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0739-daily-temperatures) |
@@ -72,6 +73,7 @@ Problems solved: 178
 | ------- |
 | [0015-3sum](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -166,4 +168,8 @@ Problems solved: 178
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
