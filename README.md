@@ -117,6 +117,7 @@ Problems solved: 178
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
