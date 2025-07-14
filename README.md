@@ -118,6 +118,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Maksym-Bondarenko/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -145,6 +146,7 @@ Problems solved: 178
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maksym-Bondarenko/leetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
